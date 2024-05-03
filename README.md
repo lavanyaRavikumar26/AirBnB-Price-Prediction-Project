@@ -56,10 +56,12 @@ Run the code notebooks to reproduce the analysis and modeling process.
 Refer to the README and other documentation for detailed instructions on running specific parts of the project.
 
 
-Additional Files
+Additional Files:
 
 PowerPoint deck: AirBnB_Price_Prediction_Presentation.pptx
+
 Code notebooks: Data_Understanding.ipynb, Modeling_and_Insights.ipynb
+
 Data files: calendar.csv, hosts.csv, listings.csv, reviews.csv
 
 
